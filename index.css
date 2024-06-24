@@ -22,4 +22,5 @@ a > img {
 }
 
 .img-container img {
+  width: 50%;
 }
