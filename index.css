@@ -20,3 +20,6 @@ a > img {
 .img-container {
   width: 100%;
 }
+
+.img-container img {
+}
