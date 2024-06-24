@@ -23,4 +23,5 @@ a > img {
 
 .img-container img {
   width: 50%;
+  height: 500px;
 }
