@@ -11,6 +11,7 @@ p {
 
 section {
   margin: 2rem;
+  display: flex;
 }
 
 a > img {
