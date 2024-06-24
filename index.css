@@ -2,13 +2,16 @@ body {
   margin: 0;
 }
 
-a > img {
-  width: 20px;
-}
-
 h1,
 h2,
 h3,
 p {
   margin: 0;
+}
+
+section {
+}
+
+a > img {
+  width: 20px;
 }
