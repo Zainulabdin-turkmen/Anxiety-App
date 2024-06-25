@@ -22,7 +22,7 @@ a > img {
 .img-container {
   width: 100%;
   background-color: lightgreen;
-  /* height: 400px; */
+  height: 400px;
 }
 
 .img-container img {
