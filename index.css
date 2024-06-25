@@ -23,6 +23,7 @@ a > img {
   width: 100%;
   background-color: lightgreen;
   height: 400px;
+  border-radius: 1rem;
 }
 
 .img-container img {
