@@ -35,6 +35,9 @@ a > img {
   width: 20px;
 }
 
+a {
+}
+
 .img-container {
   width: 100%;
   background-color: lightgreen;
