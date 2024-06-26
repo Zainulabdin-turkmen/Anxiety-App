@@ -36,12 +36,16 @@ a > img {
 }
 
 a {
-  display: flex;
-  gap: rem;
   color: #fff;
+  display: flex;
   text-align: center;
   background-color: #6642cd;
-  /* display: block; */
+  text-decoration: none;
+  padding: 1rem 2rem;
+}
+
+span {
+  font-size: 24px;
 }
 
 .img-container {
