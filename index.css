@@ -39,5 +39,5 @@ a > img {
   height: 450px;
   margin-right: -1rem;
   margin-top: -6.2rem;
-  /* object-fit: cover; */
+  object-fit: cover;
 }
