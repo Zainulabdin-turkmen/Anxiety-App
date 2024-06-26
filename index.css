@@ -36,6 +36,12 @@ a > img {
 }
 
 a {
+  display: flex;
+  gap: rem;
+  color: #fff;
+  text-align: center;
+  background-color: #6642cd;
+  /* display: block; */
 }
 
 .img-container {
