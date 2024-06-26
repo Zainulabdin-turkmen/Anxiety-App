@@ -17,6 +17,9 @@ section {
   gap: 10rem;
 }
 
+.text-container {
+}
+
 h1 {
   font-size: 3.5rem;
 }
