@@ -76,7 +76,7 @@ span {
     flex-direction: row;
   }
 
-  /* .text-container { */
+  .text-container {
     /* text-align: start; */
   }
 }
