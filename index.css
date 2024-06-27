@@ -69,3 +69,14 @@ span {
   margin-top: -6.2rem;
   object-fit: cover;
 }
+
+@media only screen and (min-width: 1024px) {
+  section {
+    display: flex;
+    flex-direction: row;
+  }
+
+  /* .text-container { */
+    /* text-align: start; */
+  }
+}
