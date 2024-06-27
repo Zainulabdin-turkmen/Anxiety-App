@@ -77,6 +77,6 @@ span {
   }
 
   .text-container {
-    /* text-align: start; */
+    text-align: start;
   }
 }
