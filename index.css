@@ -14,7 +14,7 @@ section {
   margin: 2rem;
   display: flex;
   flex-direction: column;
-  gap: 10rem;
+  gap: 9rem;
 }
 
 .text-container {
@@ -46,6 +46,7 @@ a {
   gap: 1rem;
   align-items: center;
   justify-content: center;
+  width: 280px;
 }
 
 span {
