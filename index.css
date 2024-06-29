@@ -81,4 +81,9 @@ span {
   .text-container {
     text-align: start;
   }
+
+  .img-container {
+    height: 100%;
+    /* align-self: flex-end; */
+  }
 }
