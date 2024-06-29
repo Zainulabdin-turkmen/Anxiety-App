@@ -38,7 +38,6 @@ a > img {
 a {
   color: #fff;
   display: flex;
-  text-align: center;
   background-color: #6642cd;
   text-decoration: none;
   padding: 1rem 2rem;
