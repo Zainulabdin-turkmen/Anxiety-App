@@ -75,7 +75,7 @@ span {
     margin-top: 10rem;
     display: flex;
     flex-direction: row;
-    gap: 0;
+    gap: 2rem;
   }
 
   .text-container {
@@ -83,7 +83,10 @@ span {
   }
 
   .img-container {
-    height: 100%;
-    /* align-self: flex-end; */
+    /* height: 374px; */
+    /* width: 450px; */
+  }
+  /* .img-container img { */
+    /* height: 473px; */
   }
 }
