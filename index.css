@@ -97,5 +97,6 @@ span {
   section {
     max-width: 1200px;
     margin: 10rem auto;
+    gap: 6rem;
   }
 }
