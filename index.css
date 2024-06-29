@@ -76,7 +76,7 @@ span {
     display: flex;
     flex-direction: row;
     gap: 2.5rem;
-    /* margin-left: 4.5rem; */
+    margin-left: 4.5rem;
     margin-right: 4.5rem;
   }
 
